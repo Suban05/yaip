@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/Suban05/enjoyWord/workflows/CI/badge.svg)](https://github.com/Suban05/yaip/actions)
+[![Build Status](https://github.com/Suban05/yaip/workflows/CI/badge.svg)](https://github.com/Suban05/yaip/actions)
 
 # Yaip - IP Geolocation API Client
 
