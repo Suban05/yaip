@@ -1,6 +1,6 @@
 [![Build Status](https://github.com/Suban05/yaip/workflows/Ruby/badge.svg)](https://github.com/Suban05/yaip/actions)
 
-# Yaip - IP Geolocation API Client
+# Yaip - Yet another IP Geolocation API Client
 
 **Yaip** is a simple Ruby client for the IP Geolocation API, which retrieves geolocation data based on an IP address. This client uses `http://ip-api.com` to fetch IP information in XML format.
 
