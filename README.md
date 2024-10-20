@@ -30,7 +30,7 @@ You can use the `Yaip::Ipgeobase.lookup` method to fetch geolocation data for an
 ### Example
 
 ```ruby
-require 'yaip/ipgeobase'
+require 'yaip'
 
 # Fetch full geolocation data for an IP
 ip_meta = Yaip::Ipgeobase.lookup("83.169.216.199")
